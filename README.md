@@ -1,4 +1,4 @@
 # apanacollge-demo
 This is my second Repository
 <br>
-Author-Aditi Desai
+Author-Aditi (Apana college)
